@@ -1,0 +1,8 @@
+{
+  "name": "video-maker",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:IagoRochaPorto/video-maker.git",
+  "author": "Iago Rocha Porto <iagorochaporto@gmail.com>",
+  "license": "MIT"
+}
