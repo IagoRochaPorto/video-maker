@@ -6,9 +6,21 @@
   "author": "Iago Rocha Porto <iagorochaporto@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@babel/polyfill": "^7.4.3",
     "algorithmia": "^0.3.10",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "core-js": "3",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.15",
     "watson-developer-cloud": "^3.18.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  },
+  "scripts": {
+    "babel": "babel-node index.js"
   }
 }
