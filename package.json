@@ -12,6 +12,7 @@
     "babel-preset-env": "^1.7.0",
     "core-js": "3",
     "googleapis": "^39.2.0",
+    "image-downloader": "^3.4.2",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.15",
     "watson-developer-cloud": "^3.18.3"
